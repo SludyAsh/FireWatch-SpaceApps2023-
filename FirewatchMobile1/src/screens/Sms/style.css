@@ -1,0 +1,490 @@
+.SMS {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SMS .div-2 {
+  background-color: #ffffff;
+  height: 932px;
+  overflow: hidden;
+  position: relative;
+  width: 430px;
+}
+
+.SMS .overlap {
+  height: 141px;
+  left: -1px;
+  position: absolute;
+  top: 791px;
+  width: 433px;
+}
+
+.SMS .message-bar {
+  -webkit-backdrop-filter: blur(135.91px) brightness(100%);
+  backdrop-filter: blur(135.91px) brightness(100%);
+  background-color: #ffffffc7;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 433px;
+}
+
+.SMS .input {
+  background-color: unset !important;
+  left: 124px !important;
+  position: absolute !important;
+  top: 10px !important;
+  width: 292px !important;
+}
+
+.SMS .tech-messaging-x-light-message-bar-input-placeholder {
+  width: 294px !important;
+}
+
+.SMS .tech-messaging-x-instance {
+  left: 262px !important;
+}
+
+.SMS .tech-messaging-x-light-message-bar-input-placeholder-instance {
+  font-family: "Inter", Helvetica !important;
+}
+
+.SMS .app-store {
+  height: 25px;
+  left: 70px;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.SMS .camera {
+  height: 24px;
+  left: 17px;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.SMS .app-bar {
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 433px;
+}
+
+.SMS .system-keyboards-iphone-x-light-background {
+  height: 89px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 433px !important;
+}
+
+.SMS .system-keyboards-instance {
+  height: 91px !important;
+  width: 435px !important;
+}
+
+.SMS .separator {
+  background-color: #00000026;
+  border-radius: 1px;
+  height: 26px;
+  left: 494px;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.SMS .home {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 5px;
+  left: 149px;
+  position: absolute;
+  top: 121px;
+  width: 134px;
+}
+
+.SMS .image {
+  height: 33px;
+  left: 17px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+
+.SMS .img {
+  height: 40px;
+  left: 75px;
+  position: absolute;
+  top: 68px;
+  width: 45px;
+}
+
+.SMS .image-2 {
+  height: 33px;
+  left: 187px;
+  position: absolute;
+  top: 69px;
+  width: 44px;
+}
+
+.SMS .image-3 {
+  height: 36px;
+  left: 241px;
+  position: absolute;
+  top: 66px;
+  width: 49px;
+}
+
+.SMS .image-4 {
+  height: 40px;
+  left: 360px;
+  position: absolute;
+  top: 65px;
+  width: 53px;
+}
+
+.SMS .image-5 {
+  height: 33px;
+  left: 130px;
+  position: absolute;
+  top: 69px;
+  width: 47px;
+}
+
+.SMS .image-6 {
+  height: 39px;
+  left: 300px;
+  position: absolute;
+  top: 66px;
+  width: 50px;
+}
+
+.SMS .overlap-2 {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 430px;
+}
+
+.SMS .navigation-bar {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 430px;
+}
+
+.SMS .overlap-3 {
+  background-image: url(../../../static/img/navigation-bar-background.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 130px;
+  position: relative;
+}
+
+.SMS .overlap-4 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 355px;
+}
+
+.SMS .back-button {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+.SMS .overlap-group-wrapper {
+  height: 44px;
+  left: 6px;
+  position: relative;
+  width: 107px;
+}
+
+.SMS .overlap-group-3 {
+  height: 22px;
+  position: relative;
+  top: 11px;
+  width: 41px;
+}
+
+.SMS .chevron-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SMS .parent-title {
+  color: #121212;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.SMS .avatar {
+  height: 40px !important;
+  left: 196px !important;
+  top: 6px !important;
+  width: 40px !important;
+}
+
+.SMS .vector {
+  height: 21px;
+  left: 9px;
+  position: absolute;
+  top: 14px;
+  width: 7px;
+}
+
+.SMS .name {
+  left: 181px !important;
+  position: absolute !important;
+  top: 100px !important;
+}
+
+.SMS .tech-messaging-navigation-bar-x-name-light {
+  color: #121212 !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.SMS .tech-messaging-instance {
+  color: #ffffff !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.SMS .status-bar {
+  background-color: unset !important;
+  height: 53px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 430px !important;
+}
+
+.SMS .bars-status-bars-iphone-light {
+  left: 387px !important;
+}
+
+.SMS .bars-status-bars-instance {
+  height: 12px !important;
+  left: 358px !important;
+  top: 22px !important;
+  width: 17px !important;
+}
+
+.SMS .bars-status-bars-iphone-light-instance {
+  height: 12px !important;
+  left: 333px !important;
+  top: 22px !important;
+  width: 19px !important;
+}
+
+.SMS .design-component-instance-node {
+  font-family: "Inter", Helvetica !important;
+  font-weight: 600 !important;
+}
+
+.SMS .frame {
+  align-items: center;
+  background-color: #007aff;
+  border-radius: 11px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 21px;
+  padding: 3px 7px;
+  position: absolute;
+  top: 61px;
+}
+
+.SMS .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.SMS .group {
+  background-color: #f74209;
+  border-radius: 20px;
+  height: 40px;
+  left: 195px;
+  position: absolute;
+  top: 54px;
+  width: 40px;
+}
+
+.SMS .logo {
+  height: 20px;
+  left: 6px;
+  position: relative;
+  top: 8px;
+  width: 28px;
+}
+
+.SMS .subtract {
+  height: 15px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.SMS .FIRE-WATCH {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 28px;
+}
+
+.SMS .bubble-friend {
+  background-image: url(../../../static/img/combined-shape-4.svg) !important;
+  height: 150px !important;
+  left: 37px !important;
+  position: absolute !important;
+  top: 165px !important;
+  width: 292px !important;
+}
+
+.SMS .tech-messaging-bubbles-light-friend-message {
+  height: 143px !important;
+  width: 283px !important;
+}
+
+.SMS .tech-messaging-bubbles-light-friend-message-instance {
+  top: 129px !important;
+}
+
+.SMS .bubble-friend-2 {
+  font-family: "Inter", Helvetica !important;
+  letter-spacing: -0.5px !important;
+  width: 264px !important;
+}
+
+.SMS .bubble-friend-3 {
+  background-image: url(../../../static/img/combined-shape-3.svg) !important;
+  height: 190px !important;
+  left: 37px !important;
+  position: absolute !important;
+  top: 404px !important;
+  width: 292px !important;
+}
+
+.SMS .bubble-friend-4 {
+  height: 183px !important;
+  width: 283px !important;
+}
+
+.SMS .bubble-friend-5 {
+  top: 169px !important;
+}
+
+.SMS .overlap-5 {
+  height: 134px;
+  left: 37px;
+  position: absolute;
+  top: 610px;
+  width: 292px;
+}
+
+.SMS .bubble-friend-6 {
+  background-image: url(../../../static/img/combined-shape-2.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 134px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.SMS .tail-3 {
+  background-image: url(../../../static/img/tail-5.svg);
+  background-size: 100% 100%;
+  height: 14px;
+  left: -5px;
+  position: absolute;
+  top: 120px;
+  width: 20px;
+}
+
+.SMS .p {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: -0.5px;
+  line-height: 22px;
+  position: absolute;
+  top: 7px;
+  width: 264px;
+}
+
+.SMS .message-2 {
+  color: #008aef;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: -0.5px;
+  line-height: 22px;
+  position: absolute;
+  top: 75px;
+  width: 264px;
+}
+
+.SMS .bubble-person {
+  background-image: url(../../../static/img/combined-shape-1.svg) !important;
+  height: 37px !important;
+  left: 323px !important;
+  position: absolute !important;
+  top: 341px !important;
+  width: 66px !important;
+}
+
+.SMS .tech-messaging-bubbles-light-user-message {
+  height: 30px !important;
+  width: 57px !important;
+}
+
+.SMS .tech-messaging-bubbles-light-user-message-instance {
+  background-image: url(../../../static/img/tail.svg) !important;
+  left: 37px !important;
+  top: 16px !important;
+}
+
+.SMS .bubble-person-2 {
+  font-family: "Inter", Helvetica !important;
+  width: 38px !important;
+}

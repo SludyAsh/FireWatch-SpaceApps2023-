@@ -1,0 +1,38 @@
+.tech-messaging-x {
+  background-color: #ffffff;
+  height: 33px;
+  width: 234px;
+}
+
+.tech-messaging-x .overlap-group {
+  background-color: #ffffff80;
+  border: 1px solid;
+  border-color: #c7c7cc;
+  border-radius: 16.5px;
+  height: 35px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 236px;
+}
+
+.tech-messaging-x .dictation {
+  height: 27px;
+  left: 204px;
+  position: absolute;
+  top: 3px;
+  width: 27px;
+}
+
+.tech-messaging-x .placeholder {
+  color: #3c3c434c;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  width: 180px;
+}

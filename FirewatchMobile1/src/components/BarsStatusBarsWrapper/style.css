@@ -1,0 +1,66 @@
+.bars-status-bars-wrapper {
+  background-color: #ffffff;
+  height: 48px;
+  position: relative;
+  width: 390px;
+}
+
+.bars-status-bars-wrapper .battery {
+  height: 11px;
+  left: 347px;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.bars-status-bars-wrapper .capacity-wrapper {
+  border: 1px solid;
+  border-color: #00000059;
+  border-radius: 2.67px;
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.bars-status-bars-wrapper .capacity {
+  background-color: #000000;
+  border-radius: 1.33px;
+  height: 7px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 18px;
+}
+
+.bars-status-bars-wrapper .cap {
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.bars-status-bars-wrapper .wifi {
+  height: 11px;
+  left: 325px;
+  position: absolute;
+  top: 20px;
+  width: 15px;
+}
+
+.bars-status-bars-wrapper .cellular-connection {
+  height: 11px;
+  left: 302px;
+  position: absolute;
+  top: 20px;
+  width: 17px;
+}
+
+.bars-status-bars-wrapper .time-style {
+  background-color: unset !important;
+  left: 21px !important;
+  position: absolute !important;
+  top: 12px !important;
+}

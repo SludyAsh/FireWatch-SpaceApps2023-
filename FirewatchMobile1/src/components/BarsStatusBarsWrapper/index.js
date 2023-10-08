@@ -1,0 +1,1 @@
+export { BarsStatusBarsWrapper } from "./BarsStatusBarsWrapper";

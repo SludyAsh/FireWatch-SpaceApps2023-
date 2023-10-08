@@ -1,0 +1,1 @@
+export { YourAppIcon } from "./YourAppIcon";

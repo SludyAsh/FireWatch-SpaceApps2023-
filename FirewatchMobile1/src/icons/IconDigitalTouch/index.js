@@ -1,0 +1,1 @@
+export { IconDigitalTouch } from "./IconDigitalTouch";
