@@ -1,0 +1,1 @@
+export { IconsSafariBook } from "./IconsSafariBook";

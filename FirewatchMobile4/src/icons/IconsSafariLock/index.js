@@ -1,0 +1,1 @@
+export { IconsSafariLock } from "./IconsSafariLock";

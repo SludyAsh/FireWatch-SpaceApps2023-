@@ -1,0 +1,316 @@
+.safari .safari-address-bar {
+  position: relative;
+}
+
+.safari .icons-safari-text {
+  height: 24px !important;
+  left: 6px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.safari .address {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  left: 128px;
+  position: absolute;
+  top: 6px;
+}
+
+.safari .icons-safari-lock {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.safari .apple-com {
+  color: #202124;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.safari .div {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.safari .icons-safari-lock-3 {
+  height: 12px !important;
+  position: relative !important;
+  width: 12px !important;
+}
+
+.safari .text-wrapper {
+  color: #202124;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 12.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.safari .safari-icons {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 17px;
+  position: absolute;
+  top: 62px;
+  width: 340px;
+}
+
+.safari .instance-node {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.safari .safari-address-bar-2 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 2px 12px #00000021;
+  height: 42px;
+  left: 27px;
+  position: absolute;
+  top: 8px;
+  width: 321px;
+}
+
+.safari .icons-safari-refresh {
+  height: 24px !important;
+  left: 288px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 24px !important;
+}
+
+.safari .address-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  left: 111px;
+  position: absolute;
+  top: 10px;
+}
+
+.safari .icons-safari-text-size-1 {
+  height: 24px !important;
+  left: 12px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 24px !important;
+}
+
+.safari .overlap-group {
+  border-radius: 10px;
+  height: 34px;
+  left: 195px;
+  position: absolute;
+  top: 6px;
+  width: 422px;
+}
+
+.safari .safari-address-bar-3 {
+  background-color: #d9d7d7;
+  border-radius: 10px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.safari .icons-safari-text-size-1-instance {
+  height: 24px !important;
+  left: 8px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.safari .address-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  left: 160px;
+  position: absolute;
+  top: 6px;
+}
+
+.safari .icons-safari-refresh-2 {
+  height: 24px !important;
+  left: 390px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.safari .right-icons {
+  align-items: center;
+  display: inline-flex;
+  gap: 18px;
+  left: 636px;
+  position: absolute;
+  top: 12px;
+}
+
+.safari .left-icons {
+  align-items: center;
+  display: inline-flex;
+  gap: 14px;
+  left: 59px;
+  position: absolute;
+  top: 12px;
+}
+
+.safari.portrait {
+  width: 375px;
+}
+
+.safari.landscape {
+  height: 49px;
+  width: 812px;
+}
+
+.safari.landscape.scrolled-false {
+  -webkit-backdrop-filter: blur(64.38px) brightness(100%);
+  backdrop-filter: blur(64.38px) brightness(100%);
+  background-color: #f7f6f6bd;
+  box-shadow: 0px 0.4px 0px #c1c1c1b2;
+  position: relative;
+}
+
+.safari.tab-bar.scrolled-false {
+  -webkit-backdrop-filter: blur(64.38px) brightness(100%);
+  backdrop-filter: blur(64.38px) brightness(100%);
+}
+
+.safari.tab-bar.scrolled-false.portrait {
+  box-shadow: 0px -0.4px 0px #c1c1c1;
+}
+
+.safari.tab-bar.scrolled-true.portrait {
+  height: 83px;
+}
+
+.safari.top.scrolled-false.portrait {
+  background-color: #f7f7f7;
+  height: 56px;
+}
+
+.safari.top.scrolled-true.portrait {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.safari.tab-bar.bottom.portrait {
+  height: 83px;
+}
+
+.safari.address-bar.bottom.scrolled-true.portrait {
+  height: 131px;
+}
+
+.safari.address-bar.bottom.scrolled-false.portrait {
+  height: 129px;
+}
+
+.safari.tab-bar.bottom.scrolled-false.portrait {
+  background-color: #f7f6f6d6;
+}
+
+.safari.tab-bar .safari-address-bar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.safari.scrolled-true .safari-address-bar {
+  -webkit-backdrop-filter: blur(64.38px) brightness(100%);
+  backdrop-filter: blur(64.38px) brightness(100%);
+  background-color: #f7f6f6bd;
+}
+
+.safari.top.scrolled-true .safari-address-bar {
+  align-self: stretch;
+  box-shadow: 0px -0.4px 0px #c1c1c1;
+  height: 24px;
+  width: 100%;
+}
+
+.safari.address-bar.bottom .safari-address-bar {
+  box-shadow: 0px -0.4px 0px #c1c1c1;
+}
+
+.safari.tab-bar.bottom .safari-address-bar {
+  left: 17px;
+  width: 340px;
+}
+
+.safari.tab-bar.scrolled-true .safari-address-bar {
+  left: 17px;
+}
+
+.safari.address-bar.scrolled-true .safari-address-bar {
+  box-shadow: 0px -0.4px 0px #c1c1c1;
+}
+
+.safari.top.scrolled-false .safari-address-bar {
+  background-color: #e3e3e3;
+  border-radius: 10px;
+  height: 34px;
+  left: 10px;
+  top: 11px;
+  width: 356px;
+}
+
+.safari.bottom.scrolled-true .safari-address-bar {
+  height: 50px;
+  top: 81px;
+}
+
+.safari.tab-bar.bottom.scrolled-false .safari-address-bar {
+  top: 14px;
+}
+
+.safari.address-bar.bottom.scrolled-false .safari-address-bar {
+  background-color: #f7f7f7;
+  height: 128px;
+  top: 1px;
+}
+
+.safari.tab-bar.top.scrolled-true .safari-address-bar {
+  top: 14px;
+}
+
+.safari.bottom .div {
+  left: 151px;
+  top: 10px;
+}
+
+.safari.top .div {
+  left: 148px;
+}
