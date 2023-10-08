@@ -1,0 +1,1 @@
+export { IconsPin } from "./IconsPin";
