@@ -1,0 +1,1 @@
+export { IconsSafariNewTab } from "./IconsSafariNewTab";

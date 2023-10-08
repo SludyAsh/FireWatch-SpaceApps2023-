@@ -1,0 +1,281 @@
+.squeleton {
+  background-color: #010a1a;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.squeleton .div-2 {
+  background-color: #010a1a;
+  height: 932px;
+  position: relative;
+  width: 430px;
+}
+
+.squeleton .overlap {
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 776px;
+  width: 430px;
+}
+
+.squeleton .safari-bottom {
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 430px;
+}
+
+.squeleton .safari-icons-wrapper {
+  -webkit-backdrop-filter: blur(64.38px) brightness(100%);
+  backdrop-filter: blur(64.38px) brightness(100%);
+  background-color: #f7f6f6d6;
+  box-shadow: 0px -0.4px 0px #c1c1c1;
+  height: 83px;
+  position: relative;
+  top: 6px;
+}
+
+.squeleton .safari-icons-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 17px;
+  position: relative;
+  top: 14px;
+  width: 395px;
+}
+
+.squeleton .icon-instance-node {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.squeleton .rectangle {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 76px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 348px;
+}
+
+.squeleton .pop-up-permiso-wrapper {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 385px;
+  left: 20px;
+  position: absolute;
+  top: 202px;
+  width: 392px;
+}
+
+.squeleton .pop-up-permiso {
+  height: 179px;
+  left: 36px;
+  position: absolute;
+  top: 193px;
+  width: 319px;
+}
+
+.squeleton .rectangle-2 {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 76px;
+  left: 20px;
+  position: absolute;
+  top: 677px;
+  width: 171px;
+}
+
+.squeleton .rectangle-3 {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 76px;
+  left: 202px;
+  position: absolute;
+  top: 677px;
+  width: 107px;
+}
+
+.squeleton .rectangle-4 {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 76px;
+  left: 319px;
+  position: absolute;
+  top: 677px;
+  width: 93px;
+}
+
+.squeleton .rectangle-5 {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 600px;
+  width: 142px;
+}
+
+.squeleton .rectangle-6 {
+  background-color: #d9d9d908;
+  border-radius: 5px;
+  height: 27px;
+  left: 20px;
+  position: absolute;
+  top: 632px;
+  width: 185px;
+}
+
+.squeleton .nav-bar {
+  align-items: center;
+  background-color: #f74209;
+  display: flex;
+  gap: 145px;
+  left: 0;
+  padding: 18px 130px 18px 15px;
+  position: absolute;
+  top: 106px;
+  width: 430px;
+}
+
+.squeleton .logo {
+  height: 42.94px;
+  position: relative;
+  width: 59.87px;
+}
+
+.squeleton .subtract {
+  height: 33px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.squeleton .FIRE-WATCH {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 60px;
+}
+
+.squeleton .status-bar {
+  background-color: #f7f7f7;
+  height: 53px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 430px;
+}
+
+.squeleton .battery {
+  height: 11px;
+  left: 387px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.squeleton .capacity-wrapper {
+  border: 1px solid;
+  border-color: #00000059;
+  border-radius: 2.67px;
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.squeleton .capacity {
+  background-color: #000000;
+  border-radius: 1.33px;
+  height: 7px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 18px;
+}
+
+.squeleton .cap {
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.squeleton .wifi {
+  height: 12px;
+  left: 358px;
+  position: absolute;
+  top: 17px;
+  width: 17px;
+}
+
+.squeleton .cellular-connection {
+  height: 12px;
+  left: 333px;
+  position: absolute;
+  top: 17px;
+  width: 19px;
+}
+
+.squeleton .time-style {
+  background-color: unset !important;
+  left: 21px !important;
+  position: absolute !important;
+  top: 13px !important;
+}
+
+.squeleton .bars-status-bars-iphone-x-time-light {
+  font-family: "Inter", Helvetica !important;
+  font-weight: 600 !important;
+}
+
+.squeleton .safari-top {
+  left: 0 !important;
+  position: absolute !important;
+  top: 50px !important;
+  width: 430px !important;
+}
+
+.squeleton .safari-instance {
+  width: 411px !important;
+}
+
+.squeleton .design-component-instance-node {
+  height: 24px !important;
+  left: 381px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.squeleton .safari-top-2 {
+  left: 137px !important;
+  top: 5px !important;
+}
+
+.squeleton .safari-top-3 {
+  font-family: "Inter", Helvetica !important;
+  white-space: unset !important;
+}
+
+.squeleton .home {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 5px;
+  left: 148px;
+  position: fixed;
+  top: 912px;
+  width: 134px;
+}
